@@ -4,3 +4,6 @@ python-dotenv~=1.0.1
 pandas~=2.2.3
 spacy~=3.8.4
 scikit-learn~=1.6.1
+pydantic~=2.10.5
+fastapi~=0.115.6
+requests~=2.32.3
