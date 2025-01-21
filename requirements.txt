@@ -2,3 +2,5 @@ Telethon~=1.38.1
 transformers~=4.48.1
 python-dotenv~=1.0.1
 pandas~=2.2.3
+spacy~=3.8.4
+scikit-learn~=1.6.1
