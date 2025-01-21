@@ -11,7 +11,7 @@ api_hash = os.getenv('API_HASH')
 client = TelegramClient('session_name', api_id, api_hash)
 
 # Define channels to scrape
-channels = ['channel1', 'channel2', 'channel3', 'channel4', 'channel5']
+channels = ['@ZemenExpress', '@nevacomputer', '@meneshayeofficial', '@ethio_brand_collection', '@Leyueqa']
 
 
 async def fetch_messages():
